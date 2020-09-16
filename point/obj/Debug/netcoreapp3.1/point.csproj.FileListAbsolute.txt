@@ -1,0 +1,13 @@
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.csprojAssemblyReference.cache
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.AssemblyInfoInputs.cache
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.AssemblyInfo.cs
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.exe
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.deps.json
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.json
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.runtimeconfig.dev.json
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.dll
+C:\ngocphuoc\point\bin\Debug\netcoreapp3.1\point.pdb
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.dll
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.pdb
+C:\ngocphuoc\point\obj\Debug\netcoreapp3.1\point.genruntimeconfig.cache

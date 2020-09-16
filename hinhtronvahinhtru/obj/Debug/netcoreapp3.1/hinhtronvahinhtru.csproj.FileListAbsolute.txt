@@ -1,0 +1,13 @@
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.exe
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.deps.json
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.runtimeconfig.json
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.runtimeconfig.dev.json
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.dll
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\bin\Debug\netcoreapp3.1\hinhtronvahinhtru.pdb
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.csprojAssemblyReference.cache
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.AssemblyInfoInputs.cache
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.AssemblyInfo.cs
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.dll
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.pdb
+C:\ngocphuoc\KE THUA C#\hinhtronvahinhtru\obj\Debug\netcoreapp3.1\hinhtronvahinhtru.genruntimeconfig.cache

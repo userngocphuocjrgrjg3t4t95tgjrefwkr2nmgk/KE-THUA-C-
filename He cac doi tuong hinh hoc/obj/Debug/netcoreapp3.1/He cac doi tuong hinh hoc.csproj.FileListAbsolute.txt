@@ -1,0 +1,13 @@
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.exe
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.deps.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.runtimeconfig.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.runtimeconfig.dev.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.dll
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\bin\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.pdb
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.csprojAssemblyReference.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.AssemblyInfoInputs.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.AssemblyInfo.cs
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.dll
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.pdb
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\He cac doi tuong hinh hoc\obj\Debug\netcoreapp3.1\He cac doi tuong hinh hoc.genruntimeconfig.cache

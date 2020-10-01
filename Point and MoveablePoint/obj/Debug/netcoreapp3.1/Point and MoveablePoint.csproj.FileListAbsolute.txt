@@ -1,0 +1,13 @@
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.exe
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.deps.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.runtimeconfig.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.runtimeconfig.dev.json
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.dll
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\bin\Debug\netcoreapp3.1\Point and MoveablePoint.pdb
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.csprojAssemblyReference.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.AssemblyInfoInputs.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.AssemblyInfo.cs
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.dll
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.pdb
+C:\ngocphuoc\KE THUA C#\KE-THUA-C-\Point and MoveablePoint\obj\Debug\netcoreapp3.1\Point and MoveablePoint.genruntimeconfig.cache
